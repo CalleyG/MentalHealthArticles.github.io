@@ -1,4 +1,4 @@
-<a href="https://garvinc518.macombserver.net/itwp2750/project3/index.php">Front Page</a>
+<a href="https://calleyg.github.io/MentalHealthArticles.github.io/">Front Page</a>
 
 <?php
 include 'header.php';
