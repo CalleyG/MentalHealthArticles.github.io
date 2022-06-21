@@ -1,0 +1,61 @@
+body {
+    background-color: #FFB6C1;
+    font-family: arial;
+    color: #FF1493;
+
+}
+
+.article-container {
+    width: 900px;
+    background-color: #fff;
+    padding: 30px;
+}
+
+.article-box {
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+input {
+    padding: 0px 20px;
+    width: 300px;
+    height: 40px;
+    font-size: 22px;
+    border-radius: 30px;
+    
+}
+
+button {
+    width: 100px;
+    height: 44px;
+    font-size: 22px;
+    border-radius: 30px;
+    color: #FF1493;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ID that centers the validation text */
+#validation {
+    text-align: center;
+ }
